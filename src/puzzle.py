@@ -1,4 +1,4 @@
-from logic import *
+from logic import And, Implication, Not, Or, Symbol, model_check
 
 people = ["Gilderoy", "Pomona", "Minerva", "Horace"]
 houses = ["Gryffindor", "Hufflepuff", "Ravenclaw", "Slytherin"]

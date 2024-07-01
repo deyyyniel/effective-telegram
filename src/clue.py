@@ -1,6 +1,6 @@
 import termcolor
 
-from logic import *
+from logic import And, Not, Or, Symbol, model_check
 
 mustard = Symbol("ColMustard")
 plum = Symbol("ProfPlum")
